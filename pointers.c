@@ -8,14 +8,14 @@
 FoCP laboratory: Pointers
 2013-11-21
 
-1.	void change(int a, int b)
+1.  void change(int a, int b)
     void change2(int *a, int *b)
-2.	Write a function which allocates mem. for an array of ints.
-3.	Write a program, which:
-    a)	asks the user for the number of ints,
-    b)	collects data,
-    c) prints collected data in inverted order,
-    d) frees the memory.
+2.  Write a function which allocates mem. for an array of ints.
+3.  Write a program, which:
+        a) asks the user for the number of ints,
+        b) collects data,
+        c) prints collected data in inverted order,
+        d) frees the memory.
 
 */
 
