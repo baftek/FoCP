@@ -1,4 +1,4 @@
-FoCP
-====
+Computer Programming
+====================
 
-Fundamentals of Computer Programming
+Laboratory files of the academic Computer Programming course.
