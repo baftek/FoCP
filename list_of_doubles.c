@@ -1,3 +1,6 @@
+// Copyright 2014 by Siarkowy.
+// Released under the terms of GNU GPL v3 license.
+
 #include <stdio.h>
 #include <stdlib.h>
 
