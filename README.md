@@ -1,4 +1,4 @@
 Computer Programming
 ====================
 
-Laboratory files of the academic Computer Programming course.
+Laboratory files of the Computer Programming academic course.
